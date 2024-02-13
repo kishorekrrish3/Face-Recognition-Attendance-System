@@ -32,6 +32,4 @@ pip install opencv-python face_recognition dlib numpy cmake
 - Special thanks to Murtaza's Workshop for the insightful and educational video tutorial that guided the development of this project. Check out the tutorial [here](https://www.youtube.com/watch?v=sz25xxF_AVE)!
 
 - Hat tip to anyone whose code was used.
-- Inspiration
-- etc.
 
